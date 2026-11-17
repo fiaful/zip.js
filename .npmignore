@@ -10,6 +10,7 @@ tsconfig.json
 .vscode
 .eslintrc.json
 docs
+REVIEW.md
 .github
 lib/core/web-worker-inline-template.js
 lib/core/web-worker-inline-template-native.js

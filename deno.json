@@ -25,6 +25,7 @@
 			"package.json",
 			"package-lock.json",
 			".npmignore",
+			"REVIEW.md",
 			"eslint.config.mjs",
 			"worker-message-property-names.js",
 			"lib/core/web-worker-inline-template.js",
